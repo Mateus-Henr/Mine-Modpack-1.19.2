@@ -1,0 +1,13 @@
+Para resolver problemas de desempenho e compatibilidade, siga os passos abaixo (mesmo que já tenha o launcher instalado):
+
+1 - Abra o executável "TLauncher-2.86-Installer-1.0.exe", LEMBRE DE MARCAR A OPÇÂO "Uma instalação limpa", e continue a instalação.
+2 - Abra o launcher e feche quando ele abrir.
+3 - Instale o "fabric-installer-0.11.0.exe" na sua ".minecraft".
+4 - Abra o launcher e clique no ícone de pasta (canto inferior direito).
+5 - Quando a pasta abrir coloque o conteúdo desse da pasta "colocar na .minecraft" dentro da ".minecraft".
+6 - Volte ao launcher e clique no ícone da engrenagem (canto inferior direito), clique em "Configurações" e na parte de "Alocação de memória" coloque uma quantidade para seu PC, se seu PC tiver 4GB de ram coloque 3GB, se tiver 8GB de ram coloque 6GB.
+7 - No launcher vá na parte de escolha de versão do jogo e selecione "Versão fabric-loader-0.14.8-1.19" e clique em "Instalar".
+8 - Quando a instalação finalizar clique em "Entrar no jogo".
+
+Opcional para melhor desempenho
+Instale o executável  "prio_x64_210_4391.exe" (programa para salvar prioridade de um programa). Depois, com o TLauncher aberto, pesquise por "Gerenciador de Tarefas" na barra de pesquisa do Windows, em "Processos" procure por "Java(TM)" (vai aparecer mais na parte superior da lista). Clique com o botão direito em "Java(TM)" e clique em "Ir para detalhes", agora no elemento selecionado ("javaw.exe"), clique com o botão direito e selecione "Set CPU priority" e coloque "High" (Alto).
